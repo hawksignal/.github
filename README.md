@@ -1,2 +1,0 @@
-# .github
-HawkSignal organization profile
