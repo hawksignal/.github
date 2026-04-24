@@ -4,9 +4,9 @@
 
 <h1 align="center">HawkSignal</h1>
 
-<p align="center"><strong>Your edge before the action.</strong></p>
+<p align="center"><strong>Your edge before kickoff.</strong></p>
 
 <p align="center">
-  We turn noise into signal — data, context and AI delivering clear,<br/>
-  pre-match intelligence across all sports.
+  We turn noise into signal by combining data and context to highlight what matters before the game.<br/>
+  Pre-match intelligence across all sports.
 </p>
